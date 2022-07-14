@@ -21,7 +21,7 @@ npm start
 
 https://heise-bewerbungsaufgaben.vercel.app
 
-## Problem:
+## Bug
 - Das Neuladen der App funktioniert nur unter dem pathname '/heise-bewerbungsaufgaben-production-build/out/index.html' wenn 'out' verwendet wurde
 
 Bis jetzt kenne ich mich leider noch nicht damit aus, wie ich einen ordentlichen Production-Build für einen Web-Server ohne Node.js aus einer Next.js-App erstellen bzw. die App richtig designen kann, um das Problem zu beheben...
